@@ -19,3 +19,10 @@ cv2 4.8.1
 pandas 1.4.2
 datajoint 0.13.5
 IPython 8.2.0
+
+Install python/Anaconda and relevant packages using pip or conda. 
+Install time ~30min-1hr
+
+Consecutive blocks of the notebooks are to be run in order, with output figures given per cell.
+Run time depends on notebook but usually takes 15-30 mins. 
+Note that shuffles of barcodes for homological dimensions >= 2 were run using a high-performance computing cluster. 
