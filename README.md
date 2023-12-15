@@ -23,6 +23,7 @@ IPython 8.2.0
 Install python/Anaconda and relevant packages using pip or conda. 
 Install time ~30min-1hr
 
+Download utils_new.py and add to folder of relevant notebook (or referred to in PATH)
 Consecutive blocks of the notebooks are to be run in order, with output figures given per cell.
 Run time depends on notebook but usually takes 15-30 mins. 
 Note that shuffles of barcodes for homological dimensions >= 2 were run using a high-performance computing cluster. 
