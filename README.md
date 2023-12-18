@@ -29,6 +29,7 @@ cv2 4.8.1
 pandas 1.4.2
 datajoint 0.13.5
 IPython 8.2.0
+Cebra 0.3.1
 
 Install python/Anaconda and relevant packages using pip or conda. 
 Install time ~30min-1hr
