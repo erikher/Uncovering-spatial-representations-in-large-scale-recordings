@@ -12,7 +12,7 @@ The data are publicly shared by the respective authors at:
 
 The data needs to be downloaded and the directories referenced appropriately where relevant.
 
-This has been tested on a Macbook Pro M2, macOS Ventura (13) using the following versions:
+This has been tested on a Macbook Pro M2, macOS Ventura (13) using the following versions (Note, due to tensorflow issues on Mac, a Windows 11 Lenovo Thinkpad Intel i7 was used for Cebra computations):
 
 Open-source software: Jupyter notebook 6.4.8, Python version 3.9.12, MySQL 5.7
  
@@ -30,6 +30,7 @@ pandas 1.4.2
 datajoint 0.13.5
 IPython 8.2.0
 Cebra 0.3.1
+tensorflow 2.4.0
 
 Install python/Anaconda and relevant packages using pip or conda. 
 Install time ~30min-1hr
